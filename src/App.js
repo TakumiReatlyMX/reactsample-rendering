@@ -13,7 +13,7 @@ export default function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>Start editing to see some magic happen!</h2>
-      <p>{count}</p>
+      <p>{count}!!!</p>
       <button onClick={onClickCountUp}>Count up</button>
     </div>
   );
